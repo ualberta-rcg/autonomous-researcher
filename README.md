@@ -2,6 +2,7 @@
 
 # Autonomous Researcher
 
+[![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](./LICENSE)
 [![Python 3](https://img.shields.io/badge/Python-3-3776AB.svg)](https://www.python.org/)
 [![SLURM](https://img.shields.io/badge/SLURM-Workflow-4EAA25.svg)](https://slurm.schedmd.com/)
 [![Corpus 1950–1980](https://img.shields.io/badge/Corpus-1950--1980-76B900.svg)](https://ntrs.nasa.gov/)
@@ -78,6 +79,22 @@ sbatch <doc_id>.sh   # runs ../sim/<doc_id>.py, writes results/<doc_id>/
 Many Bothans died to bring us this information. This project is provided as-is, but reasonable questions may be answered based on my coffee intake or mood. ;)
 
 Feel free to open an issue or email **[khoja1@ualberta.ca](mailto:khoja1@ualberta.ca)** or **[kali2@ualberta.ca](mailto:kali2@ualberta.ca)** for U of A related deployments.
+
+## 📜 License
+
+This project is released under the **BSD 3-Clause with Acknowledgment License** — free to use, with one honest ask.
+
+**What this means:**
+- ✅ Use it for anything (personal, commercial, research, whatever)
+- ✅ Modify it however you want
+- ✅ Distribute it freely
+- ✅ Include it in proprietary software
+
+**The one requirement:** If you use this repo — in a publication, a product, or a derivative work — acknowledge **Rahim Khoja and the University of Alberta Research Computing Group**.
+
+The BSD license is trusted by major projects worldwide; the acknowledgment clause makes the credit travel with the work.
+
+**Full license text:** [LICENSE](./LICENSE)
 
 ## 🧠 About University of Alberta Research Computing
 
