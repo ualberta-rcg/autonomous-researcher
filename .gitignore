@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Slurm job outputs (logs land in slurm/, not the repo root)
+slurm-*.out
+*.err
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Local scratch
+scratch/
+tmp/
