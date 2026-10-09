@@ -90,7 +90,7 @@ This project is released under the **BSD 3-Clause with Acknowledgment License** 
 - ✅ Distribute it freely
 - ✅ Include it in proprietary software
 
-**The one requirement:** If you use this repo — in a publication, a product, or a derivative work — acknowledge **Rahim Khoja and the University of Alberta Research Computing Group**.
+**The one requirement:** If you use this repo — in a publication, a product, or a derivative work — acknowledge **Rahim Khoja, Karim Ali, the Alberta Machine Intelligence Institute (AMII), and the University of Alberta Research Computing Group**.
 
 The BSD license is trusted by major projects worldwide; the acknowledgment clause makes the credit travel with the work.
 
